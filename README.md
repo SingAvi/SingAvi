@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Always be curious , it makes you smart ! Example : This Profile Readme
 
+![counter](https://ensx7b3qc6tn5x9.m.pipedream.net)
+
+
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SingAvi)
 
-![counter](https://ensx7b3qc6tn5x9.m.pipedream.net)
+
 

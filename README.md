@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SingAvi/SingAvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SingAvi)
 
 ![counter](https://ensx7b3qc6tn5x9.m.pipedream.net)
--->
+

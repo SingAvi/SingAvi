@@ -1,13 +1,15 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-### Hi there 👋 
-  
- <h1>GitUsers</h1>
 
+<h1>Hey, I'm Avinash Singh</h1> 👋 
+
+<img src="https://images.pexels.com/photos/1448762/pexels-photo-1448762.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Patience is everything"/>
+  
 
 - 🔭 I’m currently working on android and react
 - 🌱 I’m currently learning every edge cutting tech
 - 👯 I’m looking to collaborate on android, python , webDev
-- 🤔 I’m looking for help with react
+
+
 
 - ⚡ Fun fact: Always be curious , it makes you smart ! Example : This Profile Readme
 
